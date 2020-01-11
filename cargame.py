@@ -17,7 +17,7 @@ while True:
             print("The car has stopped")
     elif command == "help":
         if  got_help:
-            print("Look on your screen and dot press this button anymore!!!")
+            print("Look on your screen and don't press this button anymore!!!")
         else:
             got_help = True
             print("""
